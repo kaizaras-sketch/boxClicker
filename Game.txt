@@ -1,0 +1,5 @@
+Let's make a game!
+    name:Box Clicker
+    desc:Become the boxiest player ever.
+    by:Kaizaras
+    version:0.0
