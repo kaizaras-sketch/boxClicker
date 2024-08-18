@@ -4,3 +4,9 @@ Let's make a game!
     by:Kaizaras
     version:0.0
     created:8/18/2024
+
+Settings
+    background:https://file.garden/ZsDPNDQ9dy2RG4Ii/Box%20Clicker/crazy.png
+
+Resources
+    *box|boxes
