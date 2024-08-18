@@ -7,6 +7,3 @@ Let's make a game!
 
 Settings
     background:https://file.garden/ZsDPNDQ9dy2RG4Ii/Box%20Clicker/crazy.png
-
-Resources
-    *box|boxes
